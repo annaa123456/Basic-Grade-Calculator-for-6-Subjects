@@ -1,0 +1,7 @@
+C:\Users\63920\source\repos\GradeCalculator\GradeCalculator\bin\Debug\GradeCalculator.exe.config
+C:\Users\63920\source\repos\GradeCalculator\GradeCalculator\bin\Debug\GradeCalculator.exe
+C:\Users\63920\source\repos\GradeCalculator\GradeCalculator\bin\Debug\GradeCalculator.pdb
+C:\Users\63920\source\repos\GradeCalculator\GradeCalculator\obj\Debug\GradeCalculator.csproj.AssemblyReference.cache
+C:\Users\63920\source\repos\GradeCalculator\GradeCalculator\obj\Debug\GradeCalculator.csproj.CoreCompileInputs.cache
+C:\Users\63920\source\repos\GradeCalculator\GradeCalculator\obj\Debug\GradeCalculator.exe
+C:\Users\63920\source\repos\GradeCalculator\GradeCalculator\obj\Debug\GradeCalculator.pdb
